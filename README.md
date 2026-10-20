@@ -1,4 +1,15 @@
 # OSRS ITEM LOOKUP
+
+![GitHub Release](https://img.shields.io/github/v/release/DaRealDSA/OSRSItemLookUp)
+![GitHub branch status](https://img.shields.io/github/checks-status/DaRealDSA/OSRSItemLookUp/master)
+![GitHub Repo stars](https://img.shields.io/github/stars/DaRealDSA/OSRSItemLookUp)
+
+Notice: This project is at its early stage of development, so bugs may expected
+
+- Adding items into local JSON file
+- Desktop notification system
+- More item details
+
 ## ⚔️ OSRS API-Connected Item Lookup Tool
 
 A robust, real-time data engine that connects your application to the live Old School RuneScape (OSRS) economy and game cache. This utility resolves item names into unique game IDs to pull instantly updated Grand Exchange (GE) market metrics, margins, and equipment metadata.
